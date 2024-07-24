@@ -1,0 +1,7 @@
+[user]
+	name = rek
+	email = rteks@icloud.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
